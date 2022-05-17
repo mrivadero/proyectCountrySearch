@@ -3,7 +3,7 @@ import React from 'react'
 const GroupBy = () =>{
     return  <div class="grid-container">
                 <div>
-                    <p>Group by :</p>
+                    <p className="Group">Group by :</p>
                 </div>
                 <div>
                     <button type class="Button">
