@@ -38,6 +38,12 @@ input :hover{
   font-weight: bold;
 }
 
+#Buscar{
+  padding-left: 15px;
+  padding-right: 20px;
+  font-size: 12px;
+}
+
 
 .Button{
   width: 200px;
